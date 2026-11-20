@@ -1,4 +1,3 @@
-
 const util = require('minecraft-server-util');
 
 const SERVER = 'voidrealm.play.hosting';
