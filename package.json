@@ -1,1 +1,12 @@
-# VoidAFK
+{
+  "name": "voidafk",
+  "version": "1.0.0",
+  "description": "VoidRealm Minecraft server status checker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "minecraft-server-util": "^5.4.4"
+  }
+}
